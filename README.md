@@ -1,6 +1,7 @@
-### React-Native-Demo - EXPO 
+# React-Native-Demo - EXPO 😙
 
-## Instruction to use
+## A little demo of small application on react-native (expo) 🥸
 
-# npm install
-# npm start
+## Instruction to use: 🧐
+### npm install
+### npm start
